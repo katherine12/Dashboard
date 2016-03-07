@@ -1,0 +1,9 @@
+/*Inserta tu Codigo Responsive*/
+@media screen and (min-width:320px) and (max-width:767px) {
+    .img-responsive{
+        width: 100%;
+        margin-top: 20px;
+        position: relative;
+        left: 13px;
+    }
+}
